@@ -9,6 +9,8 @@ jobs.
 2. add new page for save user's favorite items.
 
 https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#8
+I just follow up above link.
+
 
 [IMG1](file:///home/heosujeong/Downloads/Screenshot_20191006-221525.jpg)
 
@@ -16,7 +18,6 @@ https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#8
 [IMG2](file:///home/heosujeong/Downloads/Screenshot_20191006-221521.jpg)
 
 
-I just follow up above link.
 
 
 
