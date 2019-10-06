@@ -1,6 +1,23 @@
-# pj
+# Complete!
 
-A new Flutter project.
+
+
+Make a simple Flutter project, 
+
+jobs.
+1. make horizontal list
+2. add new page for save user's favorite items.
+
+https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#8
+
+
+
+
+
+I just follow up above link.
+
+
+
 
 ## Getting Started
 
