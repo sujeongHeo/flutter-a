@@ -10,8 +10,10 @@ jobs.
 
 https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#8
 
+file:///home/heosujeong/Downloads/Screenshot_20191006-221525.jpg
 
 
+file:///home/heosujeong/Downloads/Screenshot_20191006-221521.jpg
 
 
 I just follow up above link.
